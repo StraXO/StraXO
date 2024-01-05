@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/StraXO)
+![Metrics](/github-metrics.svg)
